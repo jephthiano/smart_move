@@ -1,0 +1,9 @@
+# FOR URL REWRITING
+# PG
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+# for send message
+RewriteRule ^sm/?$ send_message.xhr.php
+
+</IfModule>

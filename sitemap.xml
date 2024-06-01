@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+	<url>
+		<loc>https://smartmovelog.000webhostapp.com</loc>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://smartmovelog.000webhostapp.com/about_us/</loc>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://smartmovelog.000webhostapp.com/contact_us/</loc>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://smartmovelog.000webhostapp.com/privacy_policy/</loc>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://smartmovelog.000webhostapp.com/terms_of_use/</loc>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://smartmovelog.000webhostapp.com/faq/</loc>
+		<changefreq>always</changefreq>
+	</url>
+</urlset>
